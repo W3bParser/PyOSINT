@@ -3,6 +3,9 @@
 <p>PyOsint is a free to use tool that allow you to generate some OSINT Dorks for personnal data scrapping or websites vulnerability's finding.</p>
 <p>PyOsint contain a little table of Google Dorks that is very useful for PenTesting or Database Breach finding.</p>
 <br>
+<h2>Installation</h2>
+<p>Execute the command : pip install -r requirements.txt OR start the "installer.bat" file.</p>
+<p>Or install manually the module by executing the following command : pip install pystyle OR pip3 install pystyle</p>
 <h2>Is this really usefull ?</h2>
 <p>It can be if you don't know much about the dorks. That is usefull if you are lazy to write your own dorks.</p>
 <br>
