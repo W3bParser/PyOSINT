@@ -1,2 +1,16 @@
 # PyOSINT
-A simple python program that allow you to create custom dorks and get the mosts revelants dorks.
+<h2>What is PyOsint ?</h2>
+<p>PyOsint is a free to use tool that allow you to generate some OSINT Dorks for personnal data scrapping or websites vulnerability's finding.</p>
+<p>PyOsint contain a little table of Google Dorks that is very useful for PenTesting or Database Breach finding.</p>
+<br>
+<h2>Is this really usefull ?</h2>
+<p>It can be if you don't know much about the dorks. That is usefull if you are lazy to write your own dorks.</p>
+<br>
+<h2>Why it is an executable version of the tool?</h2>
+<p>The executable version of PyOsint is the version that will get updated.</p>
+<p>There is no malware/trojan/ransomware/spyware/payload or backdoor in the executable file. Just a simple PyInstaller compiled script.</p>
+<p>You can easily decompilate it and see the code inside</p>
+<br>
+<h2>Credits</h2>
+<br>
+<p> - W3bParser</p
